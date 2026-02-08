@@ -1,4 +1,4 @@
-# DSA & Web Development Journey 🚀
+# DSA Journey 🚀
 
 Hi, I’m Deepesh, a CSE student starting my journey in
 Data Structures & Algorithms.
